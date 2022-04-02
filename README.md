@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arleywin&label=Profile%20views&color=0e75b6&style=flat" alt="Atleywin" /> </p>
 <p align="center">
 <a href="https://github.com/ARleywin"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://arleywin86@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="https://felandy@xzi-os.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
 ---
 <!-- Talking about you -->
